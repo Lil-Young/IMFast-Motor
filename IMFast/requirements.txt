@@ -1,0 +1,16 @@
+fastapi
+pydantic-settings
+uvicorn
+python-dotenv
+orjson
+pytest
+jinja2
+loguru
+python-jose[cryptography]
+passlib[bcrypt]
+requests
+httpx
+pyyaml
+motor
+dnspython
+pytz
